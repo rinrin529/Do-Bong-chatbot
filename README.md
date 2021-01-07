@@ -20,7 +20,7 @@
 https://i.kakao.com/openbuilder/bot/5c2a21b3e8212718584bfa00/intent/5c2a2b66384c5518d11fd639?scenarioId=5c2a2b5a384c5518d11fd636<br/><br/>
 
 2. 상단에 **'시나리오'** 클릭 -> 좌측 메뉴에서 식단 카테고리에 **'월'** 클릭<br/>
-![image](https://user-images.githubusercontent.com/45943080/103910075-c2f07b00-5147-11eb-95f1-bcf58780d896.png)<br/>
+![image](https://user-images.githubusercontent.com/45943080/103911496-75750d80-5149-11eb-9b3a-93c9a5d6d93e.png)<br/>
 글씨를 클릭하면 **'텍스트 입력'** 칸이 나옵니다. 여기서 수정 후에 **‘확인’** 클릭<br/><br/>
 ![image](https://user-images.githubusercontent.com/45943080/103910354-15319c00-5148-11eb-81af-a7e1929a1740.png)<br/>
 확인을 누르면 우측 상단에 저장 버튼이 **파랑색**으로 바뀝니다. **‘저장'** 클릭<br/><br/>
