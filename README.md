@@ -3,7 +3,7 @@
 카카오톡으로 편리하게 식단표를 확인하세요  :yellow_heart:<br/>
 챗봇 URL: http://pf.kakao.com/_jxmxcfj/chat 
 
-<br/><br/><br/>
+<br/><br/>
 
 ## 도봉학사 챗봇 입력 신청 방법
 1. 인터넷 연결은 크롬으로 한다<br/>
