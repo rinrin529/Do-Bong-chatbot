@@ -46,7 +46,7 @@ https://i.kakao.com/openbuilder/bot/5c2a21b3e8212718584bfa00/intent/5c2a2b66384c
 <img src="https://user-images.githubusercontent.com/45943080/103914646-8031a180-514d-11eb-8c2b-10a1ecd0c220.jpg" width="40%" height="40%"><br/><br/>
 
 - 챗봇, 식당, 학사 공지사항 알림
-<img src="https://user-images.githubusercontent.com/45943080/103914728-9d667000-514d-11eb-8512-75ca0d2f7296.jpg" width="30%" height="30%">
+<img src="https://user-images.githubusercontent.com/45943080/103914728-9d667000-514d-11eb-8512-75ca0d2f7296.jpg" img src="https://user-images.githubusercontent.com/45943080/103914721-9a6b7f80-514d-11eb-8e56-ebff533d0eef.jpg" width="30%" height="30%">
 <img src="https://user-images.githubusercontent.com/45943080/103914721-9a6b7f80-514d-11eb-8e56-ebff533d0eef.jpg" width="30%" height="30%">
 <img src="https://user-images.githubusercontent.com/45943080/103914724-9c354300-514d-11eb-8956-0a4922ddca57.jpg" width="30%" height="40%"><br/><br/>
 
