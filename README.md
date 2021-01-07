@@ -43,7 +43,7 @@ https://i.kakao.com/openbuilder/bot/5c2a21b3e8212718584bfa00/intent/5c2a2b66384c
 <img src="https://user-images.githubusercontent.com/45943080/103914796-b40cc700-514d-11eb-88db-db18c2c753f3.jpg" width="40%" height="40%"><br/><br/>
 
 - 공지사항 클릭 및 공지 입력<br/>
-<img src="https://user-images.githubusercontent.com/45943080/103914646-8031a180-514d-11eb-8c2b-10a1ecd0c220.jpg" width="40%" height="40%"><br/><br/>
+<img src="https://user-images.githubusercontent.com/45943080/103914646-8031a180-514d-11eb-8c2b-10a1ecd0c220.jpg" width="30%" height="30%"><br/><br/>
 
 - 챗봇, 식당, 학사 공지사항 알림<br/>
 <div>
