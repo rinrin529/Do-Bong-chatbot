@@ -41,11 +41,11 @@ https://i.kakao.com/openbuilder/bot/5c2a21b3e8212718584bfa00/intent/5c2a2b66384c
 
 - 학습 되지 않은 문장 & 없는 기능<br/>
 <div>
-<img src="https://user-images.githubusercontent.com/45943080/103914615-714aef00-514d-11eb-97db-4bf24c968fc1.jpg" width="40%" height="40%">
+<img src="https://user-images.githubusercontent.com/45943080/103914615-714aef00-514d-11eb-97db-4bf24c968fc1.jpg" width="36%" height="36%">
 <img src="https://user-images.githubusercontent.com/45943080/103914796-b40cc700-514d-11eb-88db-db18c2c753f3.jpg" width="35%" height="35%"><br/><br/>
 </div>
 
-- 없는 기능 및 공지 사항<br/>
+- 공지 사항<br/>
 <div>
 <img src="https://user-images.githubusercontent.com/45943080/103914646-8031a180-514d-11eb-8c2b-10a1ecd0c220.jpg" width="35%" height="35%"></div><br/><br/>
 
