@@ -35,9 +35,9 @@ https://i.kakao.com/openbuilder/bot/5c2a21b3e8212718584bfa00/intent/5c2a2b66384c
 ## 챗봇 주요 기능
 - 요일 별 메뉴 알림<br/>
 <div>
-<img src="https://user-images.githubusercontent.com/45943080/103917075-84ab8980-5150-11eb-8a0c-8b9fdaaa2af1.jpg" width="40%" height="40%">
-<img src="https://user-images.githubusercontent.com/45943080/103917067-82e1c600-5150-11eb-842b-05ae53a3b6d4.jpg" width="40%" height="40%">
-<img src="https://user-images.githubusercontent.com/45943080/103917046-7f4e3f00-5150-11eb-8bad-72c9dfbe1357.jpg" width="40%" height="40%"></div><br/><br/>
+<img src="https://user-images.githubusercontent.com/45943080/103917075-84ab8980-5150-11eb-8a0c-8b9fdaaa2af1.jpg" width="30%" height="30%">
+<img src="https://user-images.githubusercontent.com/45943080/103917067-82e1c600-5150-11eb-842b-05ae53a3b6d4.jpg" width="30%" height="30%">
+<img src="https://user-images.githubusercontent.com/45943080/103917046-7f4e3f00-5150-11eb-8bad-72c9dfbe1357.jpg" width="30%" height="30%"></div><br/><br/>
 
 - 학습 되지 않은 문장<br/>
 <img src="https://user-images.githubusercontent.com/45943080/103914615-714aef00-514d-11eb-97db-4bf24c968fc1.jpg" width="40%" height="40%"><br/><br/>
