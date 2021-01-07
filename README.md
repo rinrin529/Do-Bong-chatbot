@@ -34,24 +34,23 @@ https://i.kakao.com/openbuilder/bot/5c2a21b3e8212718584bfa00/intent/5c2a2b66384c
 
 ## 챗봇 주요 기능
 - 요일 별 메뉴 알림
-<img src="https://user-images.githubusercontent.com/45943080/103915142-29789780-514e-11eb-8682-de1674e1aff4.jpg" width="30%" height="30%">
-![요일별](https://user-images.githubusercontent.com/45943080/103915142-29789780-514e-11eb-8682-de1674e1aff4.jpg){: width="30%" height="30%"}<br/><br/>
+<img src="https://user-images.githubusercontent.com/45943080/103915142-29789780-514e-11eb-8682-de1674e1aff4.jpg" width="40%" height="40%"><br/><br/>
 
 - 학습 되지 않은 문장
-![학습안됨](https://user-images.githubusercontent.com/45943080/103914615-714aef00-514d-11eb-97db-4bf24c968fc1.jpg)<br/><br/>
+<img src="https://user-images.githubusercontent.com/45943080/103914615-714aef00-514d-11eb-97db-4bf24c968fc1.jpg" width="40%" height="40%"><br/><br/>
 
 - 없는 기능 알림
-![없는 기능](https://user-images.githubusercontent.com/45943080/103914796-b40cc700-514d-11eb-88db-db18c2c753f3.jpg)<br/><br/>
+<img src="https://user-images.githubusercontent.com/45943080/103914796-b40cc700-514d-11eb-88db-db18c2c753f3.jpg" width="40%" height="40%"><br/><br/>
 
 - 공지사항 클릭 및 공지 입력
-![공지](https://user-images.githubusercontent.com/45943080/103914646-8031a180-514d-11eb-8c2b-10a1ecd0c220.jpg)<br/><br/>
+<img src="https://user-images.githubusercontent.com/45943080/103914646-8031a180-514d-11eb-8c2b-10a1ecd0c220.jpg" width="40%" height="40%"><br/><br/>
 
 - 챗봇, 식당, 학사 공지사항 알림
-![챗봇 공지](https://user-images.githubusercontent.com/45943080/103914728-9d667000-514d-11eb-8512-75ca0d2f7296.jpg)  
-![식당 공지](https://user-images.githubusercontent.com/45943080/103914721-9a6b7f80-514d-11eb-8e56-ebff533d0eef.jpg)  
-![학사 공지](https://user-images.githubusercontent.com/45943080/103914724-9c354300-514d-11eb-8956-0a4922ddca57.jpg)<br/><br/>
+<img src="https://user-images.githubusercontent.com/45943080/103914728-9d667000-514d-11eb-8512-75ca0d2f7296.jpg" width="40%" height="40%">
+<img src="https://user-images.githubusercontent.com/45943080/103914721-9a6b7f80-514d-11eb-8e56-ebff533d0eef.jpg" width="40%" height="40%">
+<img src="https://user-images.githubusercontent.com/45943080/103914724-9c354300-514d-11eb-8956-0a4922ddca57.jpg" width="40%" height="40%"><br/><br/>
 
 - 번호, 식당번호, 행정실, 식당 이용 시간 알림 
-![번호](https://user-images.githubusercontent.com/45943080/103914871-c8e95a80-514d-11eb-9c3e-6c492bdb36df.jpg)  
-![시간](https://user-images.githubusercontent.com/45943080/103914921-d9013a00-514d-11eb-8380-ea35fb6a5c07.jpg)<br/><br/>
+<img src="https://user-images.githubusercontent.com/45943080/103914871-c8e95a80-514d-11eb-9c3e-6c492bdb36df.jpg" width="40%" height="40%">
+<img src="https://user-images.githubusercontent.com/45943080/103914921-d9013a00-514d-11eb-8380-ea35fb6a5c07.jpg" width="40%" height="40%"><br/><br/>
 
