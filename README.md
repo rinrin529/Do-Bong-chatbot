@@ -3,12 +3,11 @@
 카카오톡으로 편리하게 식단표를 확인하세요  :yellow_heart:<br/>
 챗봇 URL: http://pf.kakao.com/_jxmxcfj/chat 
 
-<br/>
 <div>
-  <img src="https://user-images.githubusercontent.com/45943080/104092285-5485f700-52c6-11eb-99af-42848ad87157.jpg" width="20%" height="20%">
-  <img src="https://user-images.githubusercontent.com/45943080/104092286-56e85100-52c6-11eb-9e65-a7d368580011.jpg" width="20%" height="20%">
+  <img src="https://user-images.githubusercontent.com/45943080/104092285-5485f700-52c6-11eb-99af-42848ad87157.jpg" width="25%" height="25%">
+  <img src="https://user-images.githubusercontent.com/45943080/104092286-56e85100-52c6-11eb-9e65-a7d368580011.jpg" width="25%" height="25%">
 </div>
-<br/>
+<br/><br/>
 
 ## 도봉학사 챗봇 입력 신청 방법
 1. 인터넷 연결은 크롬으로 한다<br/>
