@@ -5,8 +5,8 @@
 
 <br/>
 <div>
-![1](https://user-images.githubusercontent.com/45943080/104092285-5485f700-52c6-11eb-99af-42848ad87157.jpg)
-![2](https://user-images.githubusercontent.com/45943080/104092286-56e85100-52c6-11eb-9e65-a7d368580011.jpg)
+  <img src="https://user-images.githubusercontent.com/45943080/104092285-5485f700-52c6-11eb-99af-42848ad87157.jpg" width="40%" height="40%">
+  <img src="https://user-images.githubusercontent.com/45943080/104092286-56e85100-52c6-11eb-9e65-a7d368580011.jpg" width="40%" height="40%">
 </div>
 <br/>
 
