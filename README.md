@@ -4,6 +4,11 @@
 챗봇 URL: http://pf.kakao.com/_jxmxcfj/chat 
 
 <br/>
+<div>
+![1](https://user-images.githubusercontent.com/45943080/104092285-5485f700-52c6-11eb-99af-42848ad87157.jpg)
+![2](https://user-images.githubusercontent.com/45943080/104092286-56e85100-52c6-11eb-9e65-a7d368580011.jpg)
+</div>
+<br/>
 
 ## 도봉학사 챗봇 입력 신청 방법
 1. 인터넷 연결은 크롬으로 한다<br/>
