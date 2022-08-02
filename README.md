@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frinrin529%2FDo-Bong-chatbot%2Fhit-counter&count_bg=%238CBFE7&title_bg=%23989696&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 # 도봉학사 챗봇
 종이 식단표는 그만  :smile:<br/>
 카카오톡으로 편리하게 식단표를 확인하세요  :yellow_heart:<br/>
